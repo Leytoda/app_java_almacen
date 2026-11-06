@@ -1,0 +1,15 @@
+# NetBeans
+/build/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Java
+*.class
+
+# Base de datos local
+*.db
+
+# IDE
+.idea/
+.vscode/
